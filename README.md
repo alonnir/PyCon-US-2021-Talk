@@ -1,9 +1,9 @@
-# PyCon-Us-2021-Talk
+# PyCon-US-2021-Talk
 Slides and code for "Getting an Edge with Network Analysis" [talk at PyCon US 2021](https://us.pycon.org/2021/schedule/presentation/60/).
 
 Interested in learning more about network analysis? Check out **[SNAcks](https://github.com/alonnir/snacks)** for a highly curated resource list (or a snack size awesome list).
 
-Link to video will be added when available online.
+The video of the talk is now available [here](https://www.youtube.com/watch?v=DPqhV21tSAc).
 
 ---
 
