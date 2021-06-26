@@ -25,3 +25,9 @@ In the talk we introduced a [dataset](https://github.com/alonnir/PyCon-Us-2021-T
 3. You work for a social network and want to limit the spread of misinformation. 
 - How would you use network analysis to do that effectively?
 - Try to think how network where (mis)information travels fast look like, and how is it different from networks where the spread of (mis)information is slower.
+
+4. [I Want Out](https://www.reddit.com/r/IWantOut/) is a community on reddit where posts' titles detail the [OP](https://www.urbandictionary.com/define.php?term=OP)'s country of origin, and desired relocation country. For example: `[IWantOut] 23M USA-> Netherlands`. 
+- Get your hands on a data set of posts from the subreddit. Fortunately, it's [relatively](https://towardsdatascience.com/scraping-reddit-data-1c0af3040768) [easy](https://www.reddit.com/r/redditdev/comments/ce4fj3/best_way_to_get_all_posts_from_a_subreddit/etytw71/?utm_source=reddit&utm_medium=web2x&context=3) to collect that data.
+- Use the dataset you obtained to create a _directed_ network. What interesting things can you learn from the network? Which are the top countries users want to leave? Which countries are the most desired locations?
+- Extra points if you add age, gender or occupation (which are often included in the title of the post) as node _attributes_.
+- Finally, try to think what are the limitations of such analysis. Is the data biased in any way (or multiple ways)?
